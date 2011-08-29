@@ -6,6 +6,8 @@ This repo contains codes used to evaluate graph performance on Hadoop platform. 
 # Usage:
 
 make       # compile the codes
+
 make clean # clean output directories on HDFS
+
 make run   # run the evaluation program on Hadoop
 
